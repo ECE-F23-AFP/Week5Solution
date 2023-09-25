@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Week5", "Week5\Week5.fsproj", "{537B2CF9-43C6-4366-8AE9-E0FAD6403C57}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Week5Tests", "Week5Tests\Week5Tests.fsproj", "{CC8A96E2-4607-4D90-9FF9-E73759340103}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{537B2CF9-43C6-4366-8AE9-E0FAD6403C57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{537B2CF9-43C6-4366-8AE9-E0FAD6403C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{537B2CF9-43C6-4366-8AE9-E0FAD6403C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{537B2CF9-43C6-4366-8AE9-E0FAD6403C57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC8A96E2-4607-4D90-9FF9-E73759340103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC8A96E2-4607-4D90-9FF9-E73759340103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC8A96E2-4607-4D90-9FF9-E73759340103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC8A96E2-4607-4D90-9FF9-E73759340103}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
